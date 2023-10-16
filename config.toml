@@ -81,12 +81,12 @@ icon = "fa fa-square fa-2x"
 weight = 3
 url = "https://bsky.app/profile/mh2.in"
 target = "_blank"
-[[params.social]]
-name = "Telegram"
-icon = "fa fa-telegram fa-2x"
-weight = 3
-url = "https://t.me/MatthiasHester"
-target = "_blank"
+#[[params.social]]
+#name = "Telegram"
+#icon = "fa fa-telegram fa-2x"
+#weight = 3
+#url = "https://t.me/MatthiasHester"
+#target = "_blank"
 [[params.social]]
 name = "m@mh2.in"
 icon = "fa fa-envelope fa-2x"
