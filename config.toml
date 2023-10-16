@@ -1,8 +1,8 @@
 baseurl = "https://mh2.in"
 title = "DevOps with love"
 theme = "hugo-coder-forked"
-languagecode = "de"
-defaultcontentlanguage = "de"
+languagecode = "en"
+defaultcontentlanguage = "en"
 
 paginate = 20
 
