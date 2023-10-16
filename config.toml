@@ -1,8 +1,8 @@
-baseurl = "https://kazakov.xyz"
+baseurl = "https://mh2.in"
 title = "DevOps with love"
 theme = "hugo-coder-forked"
-languagecode = "en"
-defaultcontentlanguage = "en"
+languagecode = "de"
+defaultcontentlanguage = "de"
 
 paginate = 20
 
@@ -21,16 +21,16 @@ filename = 'sitemap.xml'
 priority = 0.5
 
 [params]
-author = "Kirill Kazakov"
-info = ["Full Stack DevOps and Magician"]
-description = "Kirill Kazakov's personal page"
-keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-gravatar = "k@kazakov.xyz"
+author = "Matthias Hester"
+info = [""]
+description = "Matthias Hesters Seite"
+keywords = "blog,businesscard,personal,devops"
+gravatar = "m.hester@gmx.de"
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
 
-since = 2010
+since = 2023
 enableTwemoji = true
 colorScheme = "auto"
 hidecolorschemetoggle = false
@@ -49,31 +49,43 @@ maxSeeAlsoItems = 5
 name = "Github"
 icon = "fa fa-github fa-2x"
 weight = 1
-url = "https://github.com/kksudo/"
+url = "https://github.com/brainscan1980/"
 target = "_blank"
 [[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab fa-2x"
-weight = 2
-url = "https://gitlab.com/kksudo"
+name = "Facebook"
+icon = "fa fa-facebook fa-2x"
+weight = 3
+url = "https://www.facebook.com/matthias.hester/"
 target = "_blank"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://www.instagram.com/kk_sudo/"
+url = "https://www.instagram.com/brainscan/"
 target = "_blank"
 [[params.social]]
-name = "Linkedin"
-icon = "fa fa-linkedin fa-2x"
-weight = 5
-url = "https://www.linkedin.com/in/kazakovk/"
+name = "Twitter"
+icon = "fa fa-twitter fa-2x"
+weight = 3
+url = "https://twitter.com/mh2cc"
 target = "_blank"
 [[params.social]]
-name = "k@kazakov.xyz"
+name = "Mastodon"
+icon = "fa fa-mastodon fa-2x"
+weight = 3
+url = "https://troet.cafe/@brainscan"
+target = "_blank"
+[[params.social]]
+name = "Bluesky"
+icon = "fa fa-bluesky fa-2x"
+weight = 3
+url = "https://bsky.app/profile/mh2.in"
+target = "_blank"
+[[params.social]]
+name = "m@mh2.in"
 icon = "fa fa-envelope fa-2x"
 weight = 6
-url = "mailto:k@kazakov.xyz"
+url = "mailto:m@mh2.in"
 target = "_blank"
 
 # Menu links
