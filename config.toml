@@ -106,4 +106,5 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 3
-url  = "https://mh2.in/"
+url  = "https://mh2.in/" 
+target = "_blank" 
