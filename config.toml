@@ -1,5 +1,5 @@
-baseurl = "https://mh2.in"
-title = "Matthias Hester - mh2.in"
+baseurl = "https://me.mh2.in"
+title = "Matthias Hester - me.mh2.in"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
