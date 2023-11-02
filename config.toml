@@ -48,13 +48,13 @@ maxSeeAlsoItems = 5
 [[params.social]]
 name = "Wordpress"
 icon = "fa fa-wordpress fa-2x"
-weight = 3
+weight = 1
 url  = "https://mh2.in/" 
 target = "_blank"
 [[params.social]]
 name = "Github"
 icon = "fa fa-github fa-2x"
-weight = 1
+weight = 3
 url = "https://github.com/brainscan1980/"
 target = "_blank"
 [[params.social]]
