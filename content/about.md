@@ -9,3 +9,5 @@ Man reiche mir eine Tür!
 Ich beliebe zu gehen.
 
 Mehr folgt in naher Zukunft. :-)
+
+Blog: (mh2.in)(https://mh2.in)
