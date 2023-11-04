@@ -1,4 +1,4 @@
-baseurl = "https://mhster.de"
+baseurl = "https://mhester.de"
 title = "Matthias Hester - mhester.de"
 theme = "hugo-coder-forked"
 languagecode = "en"
