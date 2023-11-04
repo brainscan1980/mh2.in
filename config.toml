@@ -25,7 +25,7 @@ author = "Matthias Hester"
 info = [""]
 description = "Matthias Hesters Seite"
 keywords = "blog,businesscard,personal,devops"
-gravatar = "m.hester@gmx.de"
+gravatar = "m@mh2.in"
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
