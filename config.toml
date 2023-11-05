@@ -26,7 +26,7 @@ info = [""]
 description = "Matthias Hesters Seite"
 keywords = "blog,businesscard,personal,devops"
 avatarURL = "ich.jpg"
-gravatar = "m@mh2.in"
+#gravatar = "m@mh2.in"
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
