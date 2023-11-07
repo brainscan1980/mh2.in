@@ -23,7 +23,7 @@ priority = 0.5
 [params]
 author = "Matthias Hester"
 info = [""]
-description = "Matthias Hesters Seite"
+description = "Matthias Hesters Social Networks"
 keywords = "blog,businesscard,personal,devops"
 avatarURL = "ich.jpg"
 #gravatar = "m@mh2.in"
