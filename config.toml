@@ -1,5 +1,5 @@
 baseurl = "https://mhester.de"
-title = "Matthias Hester - mhester.de"
+title = "mhester.de"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
