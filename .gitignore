@@ -8,3 +8,6 @@
 # Dynamic asstes
 /resources/_gen
 /public
+/content
+config.toml
+ich.jpg
