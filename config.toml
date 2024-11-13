@@ -47,12 +47,6 @@ maxSeeAlsoItems = 5
 
 # Social links
 [[params.social]]
-name = "Wordpress"
-icon = "fa fa-wordpress fa-2x"
-weight = 1
-url  = "https://mh2.in/" 
-target = "_blank"
-[[params.social]]
 name = "Github"
 icon = "fa fa-github fa-2x"
 weight = 3
