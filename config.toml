@@ -72,7 +72,7 @@ url = "https://x.com/mh2cc"
 target = "_blank"
 [[params.social]]
 name = "Mastodon"
-icon = "fa fa-mastodon fa-2x"
+icon = "fa fa-brands fa-mastodon fa-2x"
 weight = 3
 url = "https://troet.cafe/@brainscan"
 target = "_blank"
