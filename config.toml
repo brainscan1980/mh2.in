@@ -78,7 +78,7 @@ url = "https://troet.cafe/@brainscan"
 target = "_blank"
 [[params.social]]
 name = "Bluesky"
-icon = "fa fa-square fa-2x"
+icon = "fa fa-brands fa-bluesky fa-2x"
 weight = 3
 url = "https://bsky.app/profile/mh2.in"
 target = "_blank"
