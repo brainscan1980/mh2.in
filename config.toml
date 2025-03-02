@@ -1,5 +1,5 @@
-baseurl = "https://kazakov.xyz"
-title = "DevOps with love"
+baseurl = "https://mhester.de"
+title = "mhester.de"
 theme = "hugo-coder-forked"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -21,21 +21,22 @@ filename = 'sitemap.xml'
 priority = 0.5
 
 [params]
-author = "Kirill Kazakov"
-info = ["Full Stack DevOps and Magician"]
-description = "Kirill Kazakov's personal page"
-keywords = "blog,businesscard,personal,devops,kksudo,kirill,kazakov"
-gravatar = "k@kazakov.xyz"
+author = "Matthias Hester"
+info = [""]
+description = "Matthias Hesters Social Networks"
+keywords = "blog,businesscard,personal,devops"
+avatarURL = "ich.jpg"
+#gravatar = "m@mh2.in"
 
 faviconSVG = "/img/favicon.svg"
 favicon_32 = "/img/favicon.png"
 
-since = 2010
+since = 2023
 enableTwemoji = true
 colorScheme = "auto"
 hidecolorschemetoggle = false
 # Git Commit in Footer, uncomment the line below to enable it
-commit = "https://github.com/kksudo/kazakov.xyz/tree/"
+#commit = "https://github.com/kksudo/kazakov.xyz/tree/"
 powered_by = true
 # Series see also post count
 maxSeeAlsoItems = 5
@@ -48,38 +49,50 @@ maxSeeAlsoItems = 5
 [[params.social]]
 name = "Github"
 icon = "fa fa-github fa-2x"
-weight = 1
-url = "https://github.com/kksudo/"
+weight = 3
+url = "https://github.com/brainscan1980/"
 target = "_blank"
 [[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab fa-2x"
-weight = 2
-url = "https://gitlab.com/kksudo"
+name = "Facebook"
+icon = "fa fa-facebook fa-2x"
+weight = 3
+url = "https://www.facebook.com/matthias.hester/"
 target = "_blank"
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-instagram fa-2x"
 weight = 3
-url = "https://www.instagram.com/kk_sudo/"
+url = "https://www.instagram.com/brainscan/"
 target = "_blank"
 [[params.social]]
-name = "X-Twitter"
+name = "Twitter"
 icon = "fa fa-brands fa-x-twitter fa-2x"
 weight = 3
-url = "https://x.com/kk_sudo/"
+url = "https://x.com/mh2cc"
 target = "_blank"
 [[params.social]]
-name = "Linkedin"
-icon = "fa fa-linkedin fa-2x"
-weight = 5
-url = "https://www.linkedin.com/in/kazakovk/"
+name = "Mastodon"
+icon = "fa fa-mastodon fa-2x"
+weight = 3
+url = "https://troet.cafe/@brainscan"
 target = "_blank"
 [[params.social]]
-name = "k@kazakov.xyz"
+name = "Bluesky"
+icon = "fa fa-square fa-2x"
+weight = 3
+url = "https://bsky.app/profile/mh2.in"
+target = "_blank"
+#[[params.social]]
+#name = "Telegram"
+#icon = "fa fa-telegram fa-2x"
+#weight = 3
+#url = "https://t.me/MatthiasHester"
+#target = "_blank"
+[[params.social]]
+name = "m@mh2.in"
 icon = "fa fa-envelope fa-2x"
 weight = 6
-url = "mailto:k@kazakov.xyz"
+url = "mailto:m@mh2.in"
 target = "_blank"
 
 # Menu links
@@ -91,5 +104,3 @@ url  = "/"
 name = "About"
 weight = 2
 url = "about/"
-
-
