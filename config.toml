@@ -25,7 +25,7 @@ author = "Matthias Hester"
 info = [""]
 description = "Matthias Hesters Social Networks"
 keywords = "blog,businesscard,personal,devops"
-avatarURL = "images/ich.jpg"
+avatarURL = "ich.jpg"
 #gravatar = "m@mh2.in"
 
 faviconSVG = "/img/favicon.svg"
